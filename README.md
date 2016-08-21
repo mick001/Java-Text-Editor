@@ -9,7 +9,7 @@ You can download a runnable .jar if you want at [this address](https://www.dropb
 ## Examples
 The program is really simple to use, you can check [this article](https://firsttimeprogrammer.blogspot.com/2015/03/my-first-serious-java-project.html) explaining how to use the editor.
 
-Other articles are available at https://www.firsttimeprogrammer.blogspot.com
+Other articles are available at [The Beginner Programmer](https://firsttimeprogrammer.blogspot.com).
 
 ## License
 See the LICENSE file for license rights and limitations (GPL 3.0).
